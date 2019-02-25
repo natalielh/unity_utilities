@@ -1,0 +1,24 @@
+note_unitytogithub
+
+ref: https://www.youtube.com/watch?v=qpXxcvS-g3g
+
+> github.com
+> start a project
+
+> unity_projectname
+> initialize with a readme
+> Add .gitignore: Unity
+
+> GitHub Desktop
+> should use the same email as your GitHub account!
+> clone an exising repository
+> URL from the clone or download button
+> create newproject in this new folder
+
+> edit > project settings > editor
+	> visible meta files
+	> asset serialization > forced text
+
+> since we put our poject in a subfolder,
+	> delete the slashes in the gitignore for [Ll]ibrary, etc...
+	> now push new files!
